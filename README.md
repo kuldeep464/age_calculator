@@ -28,5 +28,4 @@ The project is responsive and works across desktop and mobile devices.
 
 ---
 
- 📂 Project Structure
 
